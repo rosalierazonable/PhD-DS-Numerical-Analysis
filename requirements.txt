@@ -1,2 +1,10 @@
+jupyter
 ipykernel
-python-dotenv
+numpy
+pandas
+matplotlib
+scipy
+
+nbconvert
+jupyter_contrib_nbextensions
+
